@@ -1,0 +1,6 @@
+src/
+ ├── Student.java
+ ├── FileUtil.java
+ ├── StudentManager.java
+ └── Main.java
+students.txt   (auto-created if not found)
